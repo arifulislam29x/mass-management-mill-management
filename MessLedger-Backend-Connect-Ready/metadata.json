@@ -1,0 +1,6 @@
+{
+  "name": "MessLedger — Mess Management System",
+  "description": "A professional, bilingual (Bengali & English) Mess Management and Financial Accounting System with public read-only dashboard, role-secured admin panel, daily meal & bazar ledgers, automatic meal rate calculation, charts, and PDF/Excel/CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

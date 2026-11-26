@@ -1,0 +1,3 @@
+This file belongs at the Git repository root beside package.json, index.html and netlify.toml.
+Netlify Base directory: blank or .
+Netlify Publish directory: dist
